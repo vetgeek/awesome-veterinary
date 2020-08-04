@@ -47,6 +47,14 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 * [Dye](https://awesomeveterinary.blogspot.com/p/dye.html) - Different dyes are used to stain tissues.
 
 ### Radiology
+* [Radiology](https://awesomeveterinary.blogspot.com/p/radiology_16.html) - Radiology is the medical discipline that uses medical imaging to diagnose and treat diseases within the bodies of animals.
+* [Introduction](https://awesomeveterinary.blogspot.com/p/introduction.html) - It is about radiology.
+* [Radiographic technologies and basic principles](https://awesomeveterinary.blogspot.com/p/radiographic-terminology-and.html) - In this section we can get information about the latest technologies and their basic principles used in the radiology field.
+* [X-ray](https://awesomeveterinary.blogspot.com/p/xray.html) - X-rays are strong electromagnetic radiations that are used to see the internal structures of the body.
+* [Processing of x-ray film](https://awesomeveterinary.blogspot.com/p/processing-of-xray-film.html) - Films are used to print the images taken by radiographer.
+* [Ultrasound](https://awesomeveterinary.blogspot.com/p/ultrasound.html) - The sound having frequency more than 20,000 Hz are called ultrasounds. These high frequency waves are used to see the internal structures.
+* [Radiation hazards](https://awesomeveterinary.blogspot.com/p/radiation-hazards-and-safety-itis.html) - Radiations have damaging effects on living beings.
+* [Contrast radiography](https://awesomeveterinary.blogspot.com/p/contrast-radiography.html) - When the radiodensity of the tissue itself or its surrounding structures is deliberately altered to obtain a radiograph with enhanced visualization and demarcation, it is called contrast radiography.
 
 ### Microbiology-veterinary bacteriology
 
