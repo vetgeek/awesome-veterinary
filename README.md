@@ -9,7 +9,7 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Histopathology](#histopathology)
 - [Microbiology-veterinary bacteriology](#microbiology-veterinary bacteriology)
 - [Veterinary chemotherapy and toxicology](#veterinary chemotherapy and toxicology)
-- [Hematology](#hematolog)
+- [Hematology](#hematology)
 - [Parasitology](#parasitology)
 - [Milk analysis](#milk analysis)
 - [Livestock feed analysis](#livestock feed analysis)
