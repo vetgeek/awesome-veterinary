@@ -198,7 +198,7 @@ In this section you can get the information about how to culture and see micro-o
 * [Vaccines](https://awesomeveterinary.blogspot.com/p/vaccine.html) - These are used to prevent specific diseases.
 
 ### About us
-* [About us](https://awesomeveterinary.blogspot.com/p/about-us_12.html) - Have a insight on us.
+* [About us](https://awesomeveterinary.blogspot.com/p/about-us_12.html) - Have an insight on us.
 
 ### Gallery
 * [Gallery](https://awesomeveterinary.blogspot.com/p/dsfgd.html) - Have a look on photos.
