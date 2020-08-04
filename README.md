@@ -4,4 +4,4 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 
 ## Contents
 
--[Diagnostic laboratory](#diagnostic laboratory)
+- [Diagnostic laboratory](#diagnostic laboratory)
