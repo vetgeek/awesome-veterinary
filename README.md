@@ -21,6 +21,6 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Dairy breeds of buffalo](#dairy breeds of buffalo)
 - [Dairy breeds of cattle](#dairy breeds of cattle)
 - [Vaccines](#vaccines)
-- [About us](#about us)
+- [About us](#aboutus)
 - [Gallery](#gallery)
 - [News](#news)
