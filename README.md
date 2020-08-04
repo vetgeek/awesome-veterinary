@@ -26,7 +26,7 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [News](#news)
 
 ### Diagnostic laboratory
-
+* [Diagnostic laboratory](https://awesomeveterinary.blogspot.com/p/blog-page_14.html) - Laboratory diagnosis is the examination of the diseases in laboratory by using chemicals, microscope and many other new advanced instruments.
 ### Pathology
 
 ### Histopathology
