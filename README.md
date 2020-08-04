@@ -7,6 +7,7 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Laboratory diagnosis](#laboratory-diagnosis)
 - [Pathology](#pathology)
 - [Histopathology](#histopathology)
+- [Radiology](#radiology)
 - [Microbiology-veterinary bacteriology](#microbiology-veterinary-bacteriology)
 - [Veterinary chemotherapy and toxicology](#veterinary-chemotherapy-and-toxicology)
 - [Hematology](#hematology)
@@ -39,6 +40,13 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 * [Specific diseases of animals (ruminants)](https://awesomeveterinary.blogspot.com/p/specific-diseases-of-animals.html) - It is necessory to diagnose animals for this diseases so that we can prevent zoonotic diseases.
 
 ### Histopathology
+* [Histopathology](https://awesomeveterinary.blogspot.com/p/histopathology_22.html) - Histopathology is the diagnosis and study of diseases of the tissues, and involves examining tissues and/or cells under a microscope. Histopathologists are responsible for making tissue diagnoses and helping clinicians manage a patient's care.
+* [Microscope](https://awesomeveterinary.blogspot.com/p/care-of-light-microscope.html) - It is used to see microscopic organisms.
+* [Tissue preparation for microscopic study](https://awesomeveterinary.blogspot.com/p/tissue-preparation-for-microscopic-study.html) - We prepare tissue before examination under the microscope.
+* [Preparation and staining of blood smear](https://awesomeveterinary.blogspot.com/p/blog-page_22.html) - We stain tissue in order to defferentiate cells.
+* [Dye](https://awesomeveterinary.blogspot.com/p/dye.html) - Different dyes are used to stain tissues.
+
+### Radiology
 
 ### Microbiology-veterinary bacteriology
 
