@@ -24,3 +24,5 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [About us](#aboutus)
 - [Gallery](#gallery)
 - [News](#news)
+
+### Diagnostic laboratory
