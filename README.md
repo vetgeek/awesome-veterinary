@@ -7,22 +7,60 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Diagnostic laboratory](#diagnostic-laboratory)
 - [Pathology](#pathology)
 - [Histopathology](#histopathology)
-- [Microbiology-veterinary bacteriology](#microbiology-veterinarybacteriology)
-- [Veterinary chemotherapy and toxicology](#veterinarychemotherapyandtoxicology)
+- [Microbiology-veterinary bacteriology](#microbiology-veterinary-bacteriology)
+- [Veterinary chemotherapy and toxicology](#veterinary-chemotherapy-and-toxicology)
 - [Hematology](#hematology)
 - [Parasitology](#parasitology)
-- [Milk analysis](#milkanalysis)
-- [Livestock feed analysis](#livestockfeedanalysis)
-- [Veterinary virology](#veterinaryvirology)
+- [Milk analysis](#milk-analysis)
+- [Livestock feed analysis](#livestock-feed-analysis)
+- [Veterinary virology](#veterinary-virology)
 - [Biotechnology](#biotechnology)
 - [Library](#library)
-- [Livestock management](#livestockmanagement)
+- [Livestock management](#livestock-management)
 - [Theriogenology](#theriogenology)
-- [Dairy breeds of buffalo](#dairybreedsofbuffalo)
-- [Dairy breeds of cattle](#dairybreedsofcattle)
+- [Dairy breeds of buffalo](#dairy-breeds-of-buffalo)
+- [Dairy breeds of cattle](#dairy-breeds-of-cattle)
 - [Vaccines](#vaccines)
 - [About us](#aboutus)
 - [Gallery](#gallery)
 - [News](#news)
 
 ### Diagnostic laboratory
+
+### Pathology
+
+### Histopathology
+
+### Microbiology-veterinary bacteriology
+
+### Veterinary chemotherapy and toxicology
+
+### Hematology
+
+### Parasitology
+
+### Milk analysis
+
+### Livestock feed analysis
+
+### Veterinary virology
+
+### Biotechnology
+
+### Library
+
+### Livestock management
+
+### Theriogenology
+
+### Dairy breeds of buffalo
+
+### Dairy breeds of cattle
+
+### Vaccines
+
+### About us
+
+### Gallery
+
+### News
