@@ -172,15 +172,36 @@ In this section you can get the information about how to culture and see micro-o
 * [Docking](https://awesomeveterinary.blogspot.com/p/blog-page_99.html) - Docking means removal of tail. Although it is a useful practice and is carried out in several countries having developed sheep industry, yet so far it is not in vague in this country. In large animals such as buffalo and cattle, docking is not normally practiced unless tail becomes diseased or seriously wounded.
 
 ### Theriogenology
+* [Theriogenology](https://awesomeveterinary.blogspot.com/p/blog-page_29.html) - Theriogenology is the combination of two Greek words 'Therio' means beast (animal) and 'gen' means coming into the world. It is that branch of veterinary medicine concern with reproduction, including the physiology and pathology of male and female reproductive systems of animals and the clinical practice of veterinary obstetrics, gynecology, and andrology.
+* [Estrus cycle](https://awesomeveterinary.blogspot.com/p/blog-page_41.html) - Estruss is related to heat.
+* [Signs of estrus/heat](https://awesomeveterinary.blogspot.com/p/signs-of-estrusheat.html) - In this section, you can learn about the signs of heat.
+* [Regulation of reproduction ](https://awesomeveterinary.blogspot.com/p/regulation-of-reproductionn.html) - Reproduction is regulated by two systems.
+* [Oxytocin (OT)](https://awesomeveterinary.blogspot.com/p/oxytocin.html) -   Oxytocin is produced by hypothalamus. It is a peptide hormone (contains 9 amino acids) because it is produced by the hypothalamus, it is also called neuropeptide.
+* [Gonadotropin releasing hormone (GnRH)](https://awesomeveterinary.blogspot.com/p/blog-page_35.html) - It is also called central hormone or mother hormone of reproduction.
+* [Progesterone (P4)](https://awesomeveterinary.blogspot.com/p/blog-page_30.html) - It is a reproductive hormone.
+* [Estrogen](https://awesomeveterinary.blogspot.com/p/estrogen.html) - Estrogen includes E1, E2 (estradiol), and E3.
+* [Testosterone (T)](https://awesomeveterinary.blogspot.com/p/blog-page_66.html) - It is a reproductive hormone.
+* [Prostaglandins (PGs)](https://awesomeveterinary.blogspot.com/p/blog-page_52.html) - PGs include PGF2a (important for animal reproduction) and PGE2.
+* [Kisspeptin](https://awesomeveterinary.blogspot.com/p/blog-page_86.html) - It acts as neurotransmitter in brain.
+* [Inhibin and activin](https://awesomeveterinary.blogspot.com/p/inhibin-and-activin.html) - These are reproductive hormones.
+* [Relaxin (RLN)](https://awesomeveterinary.blogspot.com/p/relaxin.html) - It is a reproductive hormone.
+* [Melatonin](https://awesomeveterinary.blogspot.com/p/melatonin.html) - It is a major hormone of reproduction and involved in seasonal reproduction. More melatonin is produced during darkness. It is more in winter because the nights are long.
+* [Prolactin](https://awesomeveterinary.blogspot.com/p/blog-page_64.html) - It is responsible for lactation, maternal behavior (mamogenesis by P4 and E2), and luteotropic (in bitch). It acts like LH.
 
 ### Dairy breeds of buffalo
+* [Dairy breeds of Buffalo](https://awesomeveterinary.blogspot.com/p/blog-page_95.html) - In this section, you can learn about dairy breeds.
 
 ### Dairy breeds of cattle
+* [Dairy breeds of cattle](https://awesomeveterinary.blogspot.com/p/blog-page_85.html) - In this section, you can learn about dairy breeds.
 
 ### Vaccines
+* [Vaccines](https://awesomeveterinary.blogspot.com/p/vaccine.html) - These are used to prevent specific diseases.
 
 ### About us
+* [About us](https://awesomeveterinary.blogspot.com/p/about-us_12.html) - Have a insight on us.
 
 ### Gallery
+* [Gallery](https://awesomeveterinary.blogspot.com/p/dsfgd.html) - Have a look on photos.
 
 ### News
+* [News](https://awesomeveterinary.blogspot.com/p/news.html) - Make your self up to date.
