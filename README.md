@@ -4,7 +4,7 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 
 ## Contents
 
-- [Diagnostic laboratory](#diagnosticlaboratory)
+- [Diagnostic laboratory](#diagnostic-laboratory)
 - [Pathology](#pathology)
 - [Histopathology](#histopathology)
 - [Microbiology-veterinary bacteriology](#microbiology-veterinarybacteriology)
