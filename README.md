@@ -8,7 +8,7 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Pathology](#pathology)
 - [Histopathology](#histopathology)
 - [Radiology](#radiology)
-- [Microbiology-veterinary bacteriology](#microbiology-veterinary-bacteriology)
+- [Microbiology (veterinary bacteriology)](#microbiology-veterinary-bacteriology)
 - [Veterinary chemotherapy and toxicology](#veterinary-chemotherapy-and-toxicology)
 - [Hematology](#hematology)
 - [Parasitology](#parasitology)
@@ -56,7 +56,16 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 * [Radiation hazards](https://awesomeveterinary.blogspot.com/p/radiation-hazards-and-safety-itis.html) - Radiations have damaging effects on living beings.
 * [Contrast radiography](https://awesomeveterinary.blogspot.com/p/contrast-radiography.html) - When the radiodensity of the tissue itself or its surrounding structures is deliberately altered to obtain a radiograph with enhanced visualization and demarcation, it is called contrast radiography.
 
-### Microbiology-veterinary bacteriology
+### Microbiology (veterinary bacteriology)
+* [Microbiology (veterinary bacteriology)](https://awesomeveterinary.blogspot.com/p/microbiology.html) - Microbiology is the study of microscopic organisms, such as bacteria, viruses, fungi, archaea, and protozoa.
+In this section you can get the information about how to culture and see micro-organisms. These procedures are helpful when a physician wants to know the nature and type of causative agent of a particular disease.
+* [General rules and regulations](https://awesomeveterinary.blogspot.com/p/blog-page_15.html) - These rules are designed for the safety/protection of lab workers, animals, humans, and environment.
+* [Equipements and laboratory materials used in microbiology](https://awesomeveterinary.blogspot.com/p/equipements-and-laboratory-materials.html) - In this section, you can get information about the tools and equipments used in the microbiology labs.
+* [Use of Autoclave: Sterilization by moist heat](https://awesomeveterinary.blogspot.com/p/blog-page_13.html) - Microbial population is often controlled by the use of physical and chemical agents. Chemical agents includes various disinfectants and antiseptics. While physical agents such as temperature, osmotic pressure and radiations (gamma rays, cathode rays, X-rays and ultraviolet rays).
+* [Use of hot air oven dry heat sterilization](https://awesomeveterinary.blogspot.com/p/use-of-hot-air-oven-dry-heat.html) - Equipments like laboratory glassware and metal ware are usually sterilized by hot air oven. It can produce upto 200°C temperature. For sterilization 171°C is used for 20-30 min. Dry heat usually destroys microbes by oxidation of their proteins and ultimately incineration.
+* [Culture media](https://awesomeveterinary.blogspot.com/p/blog-page_79.html) - A culture media is the mixture of organic and inorganic substances in which microorganisms are grown. While the culture is any deliberate growth or cultivation of microorganisms in the laboratory.
+* [Preparation of the culture media](https://awesomeveterinary.blogspot.com/p/preparation-of-culture-media.html) - Culture media are commercially available in dehydrated form. These contain all the ingredients required in exact proportion. We have to only rehydrate the media, according to the instructions of the manufacturers. These are sterilized and dispensed into test tubes and petri plates as required for the experimentation. Some of the well known manufacturers of the media are Oxoid Ltd (UK), BDH (UK), Merck (Germany), Sigma (USA), Difco corporation (USA), and BioM (USA).
+* [Preparation of Bacterial Smear](https://awesomeveterinary.blogspot.com/p/preparation-of-bacterial-smear.html) - To study the microorganisms and their characteristic, we need a pure culture. A pure culture contains only a single kind of microorganisms. To obtain pure culture varius techniques can be adopted.
 
 ### Veterinary chemotherapy and toxicology
 
