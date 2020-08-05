@@ -36,7 +36,7 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 * [Species identification](https://awesomeveterinary.blogspot.com/p/species-identification.html) - It is for the identification of different species of animals.
 * [Post mortem examination of skull](https://awesomeveterinary.blogspot.com/p/post-mortem-examination-of-skull.html) - It is done to ensure that animal is not suffering from neurological diseases, rabies etc.
 * [Avian necropsy](https://awesomeveterinary.blogspot.com/p/avian-necropsy.html) - This test is done to know the cause of disease, so that we can take preventive measures for rest of the flock.
-* [How to write a post mortem report](https://awesomeveterinary.blogspot.com/p/blog-page_18.html) - This report is generated after the careful examination of culled or dead animals.
+* [How to write a post mortem report](https://awesomeveterinary.blogspot.com/p/blog-page_18.html) - Pathologist write this report after the proper examination of culled or dead animals.
 * [Specific diseases of animals (ruminants)](https://awesomeveterinary.blogspot.com/p/specific-diseases-of-animals.html) - It is necessory to diagnose animals for this diseases so that we can prevent zoonotic diseases.
 
 ### Histopathology
