@@ -236,6 +236,10 @@ specific infectious disease, effects softer tissues (lymph nodes, tongue, lungs,
 * [Malignant Catarrhal Fever](https://awesomeveterinary.blogspot.com/p/malignant-catarrhal-fever.html) - Malignant Catarrhal Fever also called as Bovine malignant catarrh, Malignant Head Catarrh, Catarrhal fever, Gangrenous coryza, infectious systemic disease presents as a variable complex of lesions affecting mainly ruminants.
 * [Q fever](https://awesomeveterinary.blogspot.com/p/q-fever.html) - CDC Classified C. burnetii as Select Pathogen, ‘Category B’ critical biological agent.
 
+
+### Pharmaceutical calculations
+* [Pharmaceutical calculations](https://awesomeveterinary.blogspot.com/p/blog-page_57.html) - These are used to calculate the right dose of a drug. Only the right dose determines whether it is a poison or a medicine.
+
 ### Vaccines
 * [Vaccines](https://awesomeveterinary.blogspot.com/p/vaccine.html) - These are used to prevent specific diseases.
 
