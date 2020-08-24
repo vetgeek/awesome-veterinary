@@ -1,6 +1,6 @@
 # Awesome-veterinary
 
-In Awesome-veterinary site, you can get latest info, veterinary services, DVM notes for undergraduate students, news, upcoming events, photos, videos, medicine and vaccination schedules.
+Awesome-veterinary is a comprehensive support for all administrative workflow in animal laboratories. The rapid transboundary spread and wide occurrence of major animal diseases have highlighted the necessity for a worldwide approach to the diagnosis, surveillance, and control of transboundary animal diseases (TADs), including zoonoses and diseases impacting food security and food safety issues. Now globalization is very fast and with the current levels of global movement and trade, an outbreak of a TAD in any one country can be a threat to the international community. The objective of our project is to provide the information that is easily accessible, helpful in the diagnosis, prevention, management, and data handling so that we can cope with future challenges. This project is very helpful for the veterinary doctors and covers all necessary information, it provides new and advanced features and authentic information to its users.
 
 ## Contents
 
@@ -21,9 +21,9 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Theriogenology](#theriogenology)
 - [Dairy breeds of buffalo](#dairy-breeds-of-buffalo)
 - [Dairy breeds of cattle](#dairy-breeds-of-cattle)
-- [Veterinary preventive medicine](#Veterinary-preventive-medicine)
-- [Comparative veterinary anatomy](#Comparative-veterinary-anatomy)
-- [Pharmaceutical calculations](#Pharmaceutical-calculations)
+- [Veterinary preventive medicine](#veterinary-preventive-medicine)
+- [Comparative veterinary anatomy](#comparative-veterinary-anatomy)
+- [Pharmaceutical calculations](#pharmaceutical-calculations)
 - [Vaccines](#vaccines)
 - [About us](#about-us)
 - [Gallery](#gallery)
