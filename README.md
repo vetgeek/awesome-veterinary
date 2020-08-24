@@ -21,8 +21,11 @@ In Awesome-veterinary site, you can get latest info, veterinary services, DVM no
 - [Theriogenology](#theriogenology)
 - [Dairy breeds of buffalo](#dairy-breeds-of-buffalo)
 - [Dairy breeds of cattle](#dairy-breeds-of-cattle)
+- [Veterinary preventive medicine](#Veterinary-preventive-medicine)
+- [Comparative veterinary anatomy](#Comparative-veterinary-anatomy)
+- [Pharmaceutical calculations](#Pharmaceutical-calculations)
 - [Vaccines](#vaccines)
-- [About us](#aboutus)
+- [About us](#about-us)
 - [Gallery](#gallery)
 - [News](#news)
 
