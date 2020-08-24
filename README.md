@@ -236,6 +236,30 @@ specific infectious disease, effects softer tissues (lymph nodes, tongue, lungs,
 * [Malignant Catarrhal Fever](https://awesomeveterinary.blogspot.com/p/malignant-catarrhal-fever.html) - Malignant Catarrhal Fever also called as Bovine malignant catarrh, Malignant Head Catarrh, Catarrhal fever, Gangrenous coryza, infectious systemic disease presents as a variable complex of lesions affecting mainly ruminants.
 * [Q fever](https://awesomeveterinary.blogspot.com/p/q-fever.html) - CDC Classified C. burnetii as Select Pathogen, ‘Category B’ critical biological agent.
 
+### Comparative veterinary anatomy
+* [Comparative veterinary anatomy](https://awesomeveterinary.blogspot.com/p/comparative-veterinary-anatomy-i.html) - The word anatomy is derived from the Greek word Ana (Apart) and tomy (Cut). It is the branch of biological science, which deals with the structure and form of organisms. It includes the study of shape, weight, color, texture, and relative position of various parts and organs of the organisms when in a state of normal health.
+* [Introduction](https://awesomeveterinary.blogspot.com/p/introduction_16.html) - It gives an idea about the form, shape, structure, and relative position of various organs and tissues.
+* [Planes of the body](https://awesomeveterinary.blogspot.com/p/planes-of-body.html) -  An imaginary line along which any two points can be connected and cut in a straight line.
+* [Methods to study anatomy](https://awesomeveterinary.blogspot.com/p/methods-to-study-anatomy.html) - Two chief methods are employed to study anatomy i.e., Systemic and Topographic.
+* [Surface contour of the bones](https://awesomeveterinary.blogspot.com/p/surface-contour-of-bones.html) - It means various parts of bone.
+* [The skeleton](https://awesomeveterinary.blogspot.com/p/the-skeleton.html) - The skeleton: It is the hard framework of body formed by bones that gives a proper shape to the body, provides support, and gives protection to the body.
+* [The bone](https://awesomeveterinary.blogspot.com/p/the-bone.html) - Bone is the basic material or primary unit of the skeleton. It is one of the hardest tissue of the body. About one-third of the weight of bone consists of an organic framework of fibrous tissue and cells. This organic matter gives resilience and toughness to bones. The remaining two-thirds of the weight of bone consists of inorganic salts (largely calcium and phosphorus) deposited within the organic framework. These salts give hardness and rigidity to bones.
+* [Bovine topographic anatomy of abdominal organs](https://awesomeveterinary.blogspot.com/p/bovine-topographic-anatomy-of-abdominal.html) - In this section, we will study about the approximate area of contact of various organs with the abdominal wall.
+* [Equine topographic anatomy of abdominal organs](https://awesomeveterinary.blogspot.com/p/equine-topographic-anatomy-of-abdominal.html) - In this section, we will study about the approximate area of contact of various organs with the abdominal wall.
+* [Heart percussion and auscultation](https://awesomeveterinary.blogspot.com/p/heart-percussion-and-auscultation.html) - Auscultation is listening to the internal sounds of the body, usually using a stethoscope.
+* [Jugular furrow](https://awesomeveterinary.blogspot.com/p/jugular.html) - Area where jugular vein is present, or the passage of jugular vein.
+* [Lungs percussion and auscultation](https://awesomeveterinary.blogspot.com/p/lungs-percussion-and-auscultation.html) - Auscultation is listening to the internal sounds of the body, usually using a stethoscope.
+* [Epidural anesthesia](https://awesomeveterinary.blogspot.com/p/epidural-anesthesia.html) - Epidural Anesthesia is administered between the sacrum and first caudal vertebrae or between the first and second caudal vertebra.
+* [Paranasal sinuses](https://awesomeveterinary.blogspot.com/p/paranasal-sinuses.html) - The sinus is an air space within a bone. Sinuses are lined by mucous membranes and communicate with the nasal cavity.
+* [Dental nerve blocks](https://awesomeveterinary.blogspot.com/p/dental-nerve-blocks.html) - Objective is to anesthetize the teeth.
+* [Dehorning](https://awesomeveterinary.blogspot.com/p/dehorning_17.html) - Dehorning is the cutting of horns.
+* [Laparotomy (Celiotomy)](https://awesomeveterinary.blogspot.com/p/leprotomy-celiotomy.html) -  It means the opening of the abdomen for diagnostic purposes or for certain operations like enterotomy, cystotomy, gastrotomy, etc.
+* [Guttural pouches](https://awesomeveterinary.blogspot.com/p/gutteral-pouches.html) -  In equine, the Eustachian tube has a diverticulum the guttural pouch.
+* [Tonsillectomy](https://awesomeveterinary.blogspot.com/p/blog-page_69.html) - Tonsillectomy is the cutting or removing of tonsils.
+* [Pleurocentesis](https://awesomeveterinary.blogspot.com/p/pleurocentesis.html) - Pleurocentesis is done to remove fluid from the pleural cavity at the lowest safe point in the standing animal. This is done in the recess at caudal mediastinal space. This space is variable among species and in right and left sides.
+* [Passage of the stomach tube](https://awesomeveterinary.blogspot.com/p/pessage-of-stomach-tube.html) - A feeding tube is a device that's inserted into your stomach through animal abdomen.
+* [Castration and vasectomy in bulls](https://awesomeveterinary.blogspot.com/p/castration-and-vasectomy-in-bulls.html) - It is the the removal of the testicles of a male animal.
+* [Tracheatomy](https://awesomeveterinary.blogspot.com/p/tracheatomy.html) - It means the cutting of trachea.
 
 ### Pharmaceutical calculations
 * [Pharmaceutical calculations](https://awesomeveterinary.blogspot.com/p/blog-page_57.html) - These are used to calculate the right dose of a drug. Only the right dose determines whether it is a poison or a medicine.
