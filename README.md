@@ -197,6 +197,45 @@ In this section you can get the information about how to culture and see micro-o
 ### Dairy breeds of cattle
 * [Dairy breeds of cattle](https://awesomeveterinary.blogspot.com/p/blog-page_85.html) - In this section, you can learn about dairy breeds.
 
+### Veterinary preventive medicine
+* [Veterinary preventive medicine ](https://awesomeveterinary.blogspot.com/p/veterinary-preventive-medicine.html) - It was established for the purposes of preventing and controlling globally important diseases of food animals and humans. To achieve its goals, VPM combines the disciplines of veterinary microbiology, epidemiology, immunology, parasitology, public health, production medicine, and clinical medicine.
+* [GIT protozoal diseases](https://awesomeveterinary.blogspot.com/p/git-protozoal-diseases.html) - These diseases occur due to parasites.
+* [Protozoal diseases (Toxoplasmosis)](https://awesomeveterinary.blogspot.com/p/protozoal-diseases.html) - These diseases occur due to parasites.
+* [Bovine viral diarrhea (BVD)](https://awesomeveterinary.blogspot.com/p/blog-page_11.html) - A contagious diseases transmitted in bodily fluids.
+* [Bovine respiratorysyncytial virus (BRSV)](https://awesomeveterinary.blogspot.com/p/bovine-respiratory-syncytial-virus-brsv.html) - This virus was named for its cytopathic effect the formation of syncytial cells.
+* [Calf Scours or Neonatal Diarrhea in Ruminants](https://awesomeveterinary.blogspot.com/p/calf-scours-or-neonatal-diarrhea-in.html) - Diarrhoea is one of the most common condition in new born calves, lambs, and kids caused mainly by viruses, bacteria, and parasites.
+* [Caseous Lymphadenitis (CLA) of Sheep And Goats](https://awesomeveterinary.blogspot.com/p/caseous-lymphadenitis-cla-of-sheep-and.html) - Caseous lymphadenitis is a contagious bacterial infection of lymph nodes of sheep and goats.
+* [Trypanosomiasis](https://awesomeveterinary.blogspot.com/p/trypanosomiasis.html) - This disease occurs due to parasites.
+* [Botulism](https://awesomeveterinary.blogspot.com/p/botulism.html) - Botulism is caused by the bacterium Clostridium botulinum.
+* [Tick Pyemia of Lambs](https://awesomeveterinary.blogspot.com/p/tick-pyemia-of-lambs.html) - Tick pyemia affects lambs 2–12 wk old and is
+characterized by debility, crippling lameness,
+and paralysis.
+* [Bovine Spongiform Encephalopathy](https://awesomeveterinary.blogspot.com/p/bovine-spongiform-encephalopathy.html) - BSE is a progressive, fatal, infectious,
+neurologic disease of cattle and it resembles scrapie of sheep and goats.
+* [Bacillary Hemoglobinuria ](https://awesomeveterinary.blogspot.com/p/bacillary-hemoglobinuria.html) - Bacillary hemoglobinuria is an acute, infectious, toxemic disease caused by Clostridium haemolyticum and is characterized by severe depression, fever, abdominal pain, dyspnea, dysentery, and hemoglobinuria.
+* [Strangles in Horses](https://awesomeveterinary.blogspot.com/p/strangles-in-horses.html) - Strangles is an infectious, contagious disease of
+Equidae, Characterized by abscessation of the lymphoid tissue of the upper respiratory tract.
+* [Glanders in Equine](https://awesomeveterinary.blogspot.com/p/glanders-in-equine.html) - Glanders is a contagious, acute or chronic, usually fatal disease of Equidae caused by Burkholderia mallei.
+* [African HorseSickness](https://awesomeveterinary.blogspot.com/p/african-horse-sickness.html) - African horse sickness is a highly infectious and deadly disease caused by African horse sickness virus.
+* [Mycotoxicosis](https://awesomeveterinary.blogspot.com/p/mycotoxicosis.html) - Mycotoxins are toxic compounds produced by fungi. They are secondary metabolites of fungi which are associated with certain disorders in animals and human beings.
+* [Actinomycosis](https://awesomeveterinary.blogspot.com/p/blog-page_8.html) - Actinomycosis or “lumpy Jaw” is chronic disease which produces immoveable hard swellings on the mandible, maxilla, and other bones of the head.
+* [Actinobacillosis](https://awesomeveterinary.blogspot.com/p/actinobacillosis.html) - Actionbacillosis also called as “wooden tongue” is sporadically occurring
+specific infectious disease, effects softer tissues (lymph nodes, tongue, lungs, and deeper layers of skin), rarely involve upper GIT including esophagous, rumen and reticulum. It is characterized by presence of granulomas with pus containing small, hard yellow to white granules, manifests as Chronic pyogranulomatous inflammatory condition.
+* [Spirochetosis in poultry](https://awesomeveterinary.blogspot.com/p/blog-page_59.html) - Avian spirochetosis is an acute, febrile, septicemic, bacterial disease that affects a wide variety of birds.
+* [Babesiosis](https://awesomeveterinary.blogspot.com/p/babesiosis.html) - Bovine babesiosis (BB) is a tickborne disease of cattle Caused by the protozoan parasites of the genus Babesia, order Piroplasmida, phylum Apicomplexa. The disease is also called Texas fever, red water, piroplasmosis, or tick fever in cattle. The disease, which is transmitted by ticks, affects a wide range of domestic and wild animals and occasionally people.
+* [Contagious caprine pleuropneumonia in Goats (CCPP)](https://awesomeveterinary.blogspot.com/p/contagious-caprine-pleuropneumonia-in.html) - Contagious Caprine Pleuropneumonia (CCPP) is an extremely contagious disease of goats (rarely sheep) caused by species of Mycoplasma, and characterized by the development of mainly Pneumonia signs. Because of high morbidity (90%) and mortality (80%) rates, this disease causes heavy economic losses. A similar disease, called as Contagious Bovine Pleuropneumonia (CBPP) is seen in cattle & buffaloes.
+* [Contagious bovine pleuropneumonia](https://awesomeveterinary.blogspot.com/p/contagious-bovine-pleuropneumonia.html) - It is seen in cattle and buffaloes.
+* [Ringworm](https://awesomeveterinary.blogspot.com/p/blog-page_21.html) - Ringworm is a fungal infection of the skin with a worldwide distribution. The disease is of significant economic consequence to the farmer since growth rates are affected in the active stage of infection and the disease causes hide damage.
+* [Demodicosis](https://awesomeveterinary.blogspot.com/p/blog-page_61.html) - Demodicosis called demodectic mange or red mange, is caused by a sensitivity to and overpopulation of Demodex canisas and the hosts immune system is unable to keep the mites under control.
+* [Medicinal plants and their importance](https://awesomeveterinary.blogspot.com/p/medicinal-plants-and-their-importance.html) - These plants are used as remedy agaisnt a number of diseases.
+* [Types of mange](https://awesomeveterinary.blogspot.com/p/types-of-mange.html) - Mange is a contagious disease characterized by crusty or scaly skin, pruritus, and alopecia. Mange is a general term for cutaneous acariasis and is the result of infestation with one of several genera of parasitic mites, including Chorioptes, Demodex, Psorobia (formerly Psorergates), Psoroptes, Sarcoptes, and others. The term "scabies" most appropriately refers to infestation with Sarcoptes sp mites (ie, sarcoptic mange); however, this term is commonly misused to refer to any type of mange.
+* [Ketosis ](https://awesomeveterinary.blogspot.com/p/ketosis.html) - It is a metabolic disease of high yielding animals characterized by hypoglycaemia, ketonaemia and ketonuria, most common in Bovines, Ovines and Caprines, common in Housed or Stall Fed animals, also called as Acetonaemia.
+* [Bovine ephemeral fever](https://awesomeveterinary.blogspot.com/p/bovine-ephemeral-fever.html) - Bovine ephemeral fever also known as three-day sickness (TDS), bovine enzootic fever, bovine influenza or stiff sickness, an insect-transmitted, non-contagious, viral disease of cattle, and water buffalo.
+* [Infectious Bovine Rhinotracheitis](https://awesomeveterinary.blogspot.com/p/infectious-bovine-rhinotracheitis.html) - Infectious Bovine Rhinotracheitis (IBR) is a highly contagious, infectious respiratory disease caused by Bovine Herpesvirus-1 (BHV-1). It can affect young and older cattle. In addition to causing respiratory disease, this virus can cause conjunctivitis, abortions, encephalitis, and generalized systemic infections. IBR is characterized by acute inflammation of the upper respiratory tract, also called Red Nose.
+* [Johne's disease](https://awesomeveterinary.blogspot.com/p/johnes-disease.html) - ohne’s disease is a contagious, chronic enteritis and usually fatal infection affects primarily the small intestine of ruminants.
+* [Malignant Catarrhal Fever](https://awesomeveterinary.blogspot.com/p/malignant-catarrhal-fever.html) - Malignant Catarrhal Fever also called as Bovine malignant catarrh, Malignant Head Catarrh, Catarrhal fever, Gangrenous coryza, infectious systemic disease presents as a variable complex of lesions affecting mainly ruminants.
+* [Q fever](https://awesomeveterinary.blogspot.com/p/q-fever.html) - CDC Classified C. burnetii as Select Pathogen, ‘Category B’ critical biological agent.
+
 ### Vaccines
 * [Vaccines](https://awesomeveterinary.blogspot.com/p/vaccine.html) - These are used to prevent specific diseases.
 
